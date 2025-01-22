@@ -5,6 +5,7 @@ from datetime import datetime
 
 file_path = "/Users/zzyun/Documents/College/Cal Poly/Year 4/Winter Quarter/CSC 369/2022_place_canvas_history.csv"
 
+
 def most_placed_color_and_pixel():
     start_hour_str = input("What is the starting time in YYYY-MM-DD HH format? ")
     end_hour_str = input("What is the ending time in YYYY-MM-DD HH format? ")
